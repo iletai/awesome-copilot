@@ -40,3 +40,9 @@ Your goal is to help me create well-structured ASP.NET Minimal API endpoints wit
 - Set proper content types for requests and responses
 - Use document transformers to add elements like servers, tags, and security schemes
 - Use schema transformers to apply customizations to OpenAPI schemas
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>

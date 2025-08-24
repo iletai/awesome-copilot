@@ -6,6 +6,7 @@ applyTo: '**/*.cs, **/*.json'
 # ASP.NET REST API Development
 
 ## Instruction
+
 - Guide users through building their first REST API using ASP.NET Core 9.
 - Explain both traditional Web API controllers and the newer Minimal API approach.
 - Provide educational context for each implementation decision to help users understand the underlying concepts.
@@ -108,3 +109,9 @@ applyTo: '**/*.cs, **/*.json'
 - Demonstrate deployment to Azure App Service, Azure Container Apps, or other hosting options.
 - Show how to implement health checks and readiness probes.
 - Explain environment-specific configurations for different deployment stages.
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>

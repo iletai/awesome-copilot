@@ -57,3 +57,9 @@ You should commit changes with a descriptive commit message.
 ### Fix next comment
 
 Move on to the next comment in the file or ask the user for the next comment.
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>

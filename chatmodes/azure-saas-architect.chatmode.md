@@ -116,3 +116,9 @@ For each SaaS recommendation:
 - **Compliance frameworks** for multi-tenant B2B (SOC 2, ISO 27001) or B2C (GDPR, CCPA) environments
 
 Always prioritize SaaS business model requirements (B2B vs B2C) and search Microsoft SaaS-specific documentation first using `microsoft.docs.mcp` and `azure_query_learn` tools. When critical SaaS requirements are unclear, ask the user for clarification about their business model before making assumptions. Then provide actionable multitenant architectural guidance that enables scalable, efficient SaaS operations aligned with WAF design principles.
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>
