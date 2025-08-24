@@ -23,3 +23,9 @@ After gathering sufficient information, produce the improved prompt as markdown,
 ```
 
 Announce to the user that the prompt is available on the clipboard, and also ask the user if they want any changes or additions. Repeat the copy + chat + ask after any revisions of the prompt.
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>

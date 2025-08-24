@@ -42,3 +42,9 @@ Use Azure Verified Modules for Bicep to enforce Azure best practices via pre-bui
 - Use `azure_get_deployment_best_practices` tool for deployment guidance
 - Use `azure_get_schema_for_Bicep` tool for schema validation
 - Use `microsoft.docs.mcp` tool to look up Azure service-specific guidance
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>

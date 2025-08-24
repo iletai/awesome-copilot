@@ -64,3 +64,9 @@ Use clear subgraphs to organize these layers, apply consistent color coding for 
 ## Context Template
 
 - **Epic PRD:** [The content of the Epic PRD markdown file]
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>

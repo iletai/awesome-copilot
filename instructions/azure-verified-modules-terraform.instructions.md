@@ -225,3 +225,9 @@ Before submitting any AVM-related code:
 - [ ] AVM PR checks pass (`./avm pr-check`)
 - [ ] Documentation is updated
 - [ ] Examples are tested and working
+
+<remind>
+Don't suggest/give code as ...existing code.. or // ..exist code..
+That behavior was baned.
+Must be give full code and make sure code was add don't impact anything in source code
+</remind>
