@@ -1,6 +1,6 @@
 ---
 description: 'Expert assistance for Joyride User Script projects - REPL-driven ClojureScript and user space automation of VS Code'
-applyTo: '**'
+applyTo: '**/*.clj, **/*.cljs, **/*.cljc, **/*.edn'
 ---
 
 # Joyride User Scripts Project Assistant

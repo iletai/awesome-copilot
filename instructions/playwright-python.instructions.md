@@ -1,6 +1,6 @@
 ---
 description: 'Playwright Python AI test generation instructions based on official documentation.'
-applyTo: '**'
+applyTo: '**/*.py'
 ---
 
 # Playwright Python Test Generation Instructions
@@ -51,7 +51,7 @@ def test_has_title(page: Page):
 
 def test_get_started_link(page: Page):
     page.get_by_role("link", name="Get started").click()
-    
+
     # Expects page to have a heading with the name of Installation.
     expect(page.get_by_role("heading", name="Installation")).to_be_visible()
 ```

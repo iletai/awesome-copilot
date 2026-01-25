@@ -1,5 +1,5 @@
 ---
-applyTo: '**'
+applyTo: '**/*.py'
 ---
 # Dataverse SDK for Python — Official Quickstart
 

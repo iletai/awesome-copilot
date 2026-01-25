@@ -1,5 +1,5 @@
 ---
-applyTo: '*'
+applyTo: '**/*.java'
 description: 'Quarkus development standards and instructions'
 ---
 

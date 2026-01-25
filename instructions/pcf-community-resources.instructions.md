@@ -1,6 +1,6 @@
 ---
 description: 'PCF community resources including gallery, videos, blogs, and development tools'
-applyTo: '**'
+applyTo: '**/*.ts, **/*.tsx, **/*.js, **/*.pcfproj'
 ---
 
 # PCF Community Resources
